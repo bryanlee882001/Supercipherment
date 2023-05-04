@@ -25,7 +25,7 @@ This cipher is great at disguising secret text when code words are well chosen, 
 
 
 # SuperCipher 
-A SuperCipher is a cipher that is formed by applying a chain of other ciphers. re<br/><br/>
+A SuperCipher is a cipher that is formed by applying a chain of other ciphers. It does not do any encryption; instead, it arranges other ciphers to encrypt the text.<br/><br/>
 For example: <br/>
 We use the phrase "I like cats a lot" <br/> <br/>
 ***Word Replacement Cipher:*** "I like cats a lot" becomes "I like dogs a lot" by replacing the word "cat". <br/>

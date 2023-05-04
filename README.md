@@ -12,7 +12,9 @@ The Caesar cipher is a classic piece of cryptography history. It’s classified 
 <br/>
 
 # Encryption Algorithm 3: Word Replacement Cipher 
-Even Odd Cipher is a “Scramble” cipher, that disguises text by shuffling the letters up. The idea is quite simple, first list all the even letters, then list all the odd letters.
+Even Odd Cipher is a “Scramble” cipher, that disguises text by shuffling the letters up. The idea is quite simple, first list all the even letters, then list all the odd letters. An illustration is shown below depicting how it works: 
+
+
 
 
 # Encryption Algorithm 3: Word Replacement Cipher 

@@ -14,6 +14,9 @@ The Caesar cipher is a classic piece of cryptography history. It’s classified 
 <img width="795" alt="CaesarCipher" src="https://user-images.githubusercontent.com/63344458/236076140-a53b0df1-02a3-46d6-8af0-ce94aead3381.png">
 <br/>
 
-# Encryption Algorithm 2: Word Replacement Cipher 
+# Encryption Algorithm 3: Word Replacement Cipher 
+
+
+# Encryption Algorithm 3: Word Replacement Cipher 
 The word replacement cipher is relatively simple, it swaps each occurrence of one word for a pre-chosen replacement. 
 This cipher is great at disguising secret text when code words are well chosen, and really shines when a relatively long list of code words is adopted. This is also quite hard to decode, as there is often no pattern or rhyme to these replacements, making them hard to automat- ically detect or undo. 

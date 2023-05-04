@@ -1,8 +1,5 @@
 # Superencipherment
-Encrypt and decrypt words using three base encryption algorithms. This project emphasizes on three core ideas: Classic String cipher algorithms, java objects, and polymorphism. 
-Superencipherment is the idea of creating secure ciphers by combining many simpler ciphers together. By taking three ciphers and combining them in different ways, we 
-can actually create ciphers that are difficult to decrypt. By utilizing polymorphism, I made all three cipher objects subclasses of parent "BaseCipher" class. This allows
-us to have BaseCipher variables refer to all three ciphers. <br />
+Superencipherment encrypts and decrypts words using three base encryption algorithms. This project emphasizes on three core ideas: Classic String cipher algorithms, java objects, and polymorphism. Superencipherment is the idea of creating secure ciphers by combining many simpler ciphers together. By taking three ciphers and combining them in different ways, we can actually create ciphers that are difficult to decrypt. By utilizing polymorphism, I made all three cipher objects subclasses of parent "Supercipher" class. This allows us to have SuperCipher variables refer to all three ciphers. <br />
 <br/>
 
 These three algorithms include: 
@@ -15,6 +12,7 @@ The Caesar cipher is a classic piece of cryptography history. It’s classified 
 <br/>
 
 # Encryption Algorithm 3: Word Replacement Cipher 
+Even Odd Cipher is a “Scramble” cipher, that disguises text by shuffling the letters up. The idea is quite simple, first list all the even letters, then list all the odd letters.
 
 
 # Encryption Algorithm 3: Word Replacement Cipher 
